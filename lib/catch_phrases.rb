@@ -15,3 +15,5 @@ end
 
 def any_phrase(a)
   phrase = a
+  puts phrase
+end
